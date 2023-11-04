@@ -1,0 +1,68 @@
+a{
+  text-align: center;
+  border: 4px solid green;
+  border-radius: 40px;
+  padding: 10px;
+  margin: 10PX;
+  text-decoration: darkolivegreen;
+  color: bisque;
+  background-color:green ;
+}
+.main{
+      text-align: center;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+.img_LOL{
+text-align: center;
+}
+
+ .menu {
+    text-align: center;
+}
+
+.img_pr{
+  width: 110px;
+  float: right;
+  
+}
+table {
+  border: 1px solid green;
+  border-collapse: collapse;
+  padding: 5px;
+  margin: 5px;
+}
+table th {
+  background-color: green;
+  color: aliceblue;
+}
+
+table td {
+background-color: white;
+color: navy;
+border: 2px solid green;
+}
+a_del {
+  text-decoration: none;
+  border-radius:0px;
+  border: 0px;
+}
+h2{
+  text-align: center;
+}
+.buynts{
+  text-align: left;
+}
+.img_buynts{
+  float: right;
+}
+footer{
+  color: white;
+  background-color: darkslategray;
+  
+}
