@@ -66,3 +66,11 @@ footer{
   background-color: darkslategray;
   
 }
+.kors{
+  border: 2px solid royalblue;
+  border-radius: 10px;
+  border-collapse: collapse;
+  color: wheat;
+  background-color: royalblue;
+  text-align: left;
+}
